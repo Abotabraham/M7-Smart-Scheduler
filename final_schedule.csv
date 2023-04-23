@@ -1,0 +1,51 @@
+,Nurse ID,"Nurse Name (Last, First)",Job Type,Shift Req,Shift Type,Charge Eligible,"('Week 1', 'Assigned')","('Week 1', 'Protected')","('Week 1', 'Total')","('Week 2', 'Assigned')","('Week 2', 'Protected')","('Week 2', 'Total')","('Week 3', 'Assigned')","('Week 3', 'Protected')","('Week 3', 'Total')","('Week 4', 'Assigned')","('Week 4', 'Protected')","('Week 4', 'Total')",08/12/2022,08/13/2022,08/14/2022,08/15/2022,08/16/2022,08/17/2022,08/18/2022,08/19/2022,08/20/2022,08/21/2022,08/22/2022,08/23/2022,08/24/2022,08/25/2022,08/26/2022,08/27/2022,08/28/2022,08/29/2022,08/30/2022,08/31/2022,09/01/2022,09/02/2022,09/03/2022,09/04/2022,09/05/2022,09/06/2022,09/07/2022,09/08/2022
+0,100001,"Jackson, Nurse",Full Time,13,Day,Yes,3,1,4,3,0,3,3,0,3,4,0,4,Day,Day (CH),,,,Protected,Day (CH),,,Day,,,Day,Day (CH),Day,,Day,,,,Day (CH),,,Day,,Day,Day,Day
+1,100002,"Woolley, Nurse",Full Time,13,Day,,3,0,3,3,0,3,3,0,3,4,0,4,,,Day,,Day,,Day,,Day,,Day,,Day,,Day,Day,,,,Day,,Day,,Day,,Day,,Day
+2,100003,"Patterson, Nurse",Full Time,13,Day,,4,0,4,3,0,3,3,0,3,3,0,3,,,Day,Day,Day,,Day,,,Day,Day,Day,,,,,Day,Day,Day,,,Day,Day,,Day,,,
+3,100004,"Blaides, Nurse",Full Time,13,Day,,3,0,3,3,0,3,3,0,3,4,0,4,,Day,Day,,,Day,,Day,Day,,,Day,,,Day,Day,,,Day,,,Day,,Day,Day,,,Day
+4,100005,"Benson, Nurse",Full Time,13,Day,Yes,3,0,3,3,0,3,3,0,3,4,0,4,Day,,Day,Day,,,,,,,Day,Day,Day,,Day (CH),,Day,,,Day,,,,Day (CH),,Day (CH),Day,Day (CH)
+5,100006,"Castillo, Nurse",Full Time,13,Night,,3,0,3,3,0,3,4,0,4,3,0,3,,Night,,Night,,Night,,,,,Night,Night,Night,,Night,,,Night,Night,Night,,,,,Night,Night,Night,
+6,100007,"Spinale, Nurse", Full Time,13,Day,,3,1,4,4,0,4,3,0,3,3,0,3,Day,Day,,,Day,,Protected,,Day,Day,Day,,Day,,,,Day,Day,,,Day,,Day,,Day,Day,,
+7,100008,"Anjum, Nurse",Full Time,13,Day,,3,0,3,3,1,4,4,0,4,3,0,3,,,,Day,Day,Day,,Protected,,,Day,Day,Day,,,Day,,Day,Day,,Day,,,,,Day,Day,Day
+8,100009,"Livshits, Nurse",Full Time,0,Day,,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,100010,"Abreu, Nurse",Full Time,13,Day,Yes,4,0,4,3,0,3,3,0,3,3,0,3,Day (CH),Day,,Day,,Day (CH),,,,,Day,Day,Day (CH),,Day,Day,,,,,Day,Day,Day (CH),,,,,Day
+10,100011,"Yetman, Nurse",Full Time,13,Day,Yes,4,0,4,3,0,3,3,0,3,3,0,3,Day,,,Day,Day,Day,,Day (CH),Day,Day,,,,,,,Day (CH),,Day (CH),,Day,,,Day,,,Day (CH),Day
+11,100012,"Jarrett-Henry, Nurse",Part Time,8,Day,,2,0,2,2,2,4,2,0,2,2,0,2,,Day,,,,,Day,Protected,Protected,,Day,Day,,,,Day,Day,,,,,,,,,Day,Day,
+12,100013,"Garcia, Nurse",Full Time,13,Day,Yes,3,0,3,3,0,3,3,0,3,4,0,4,Day,Day,Day (CH),,,,,Day,Day,,Day (CH),,,,,,Day,Day,,Day (CH),,Day (CH),,,,Day,Day,Day
+13,100014,"Torres, Nurse",Full Time,13,Day,Yes,4,0,4,3,0,3,3,0,3,3,0,3,Day,,Day,Day (CH),,Day,,,Day (CH),Day (CH),,Day (CH),,,,,Day,,,Day,Day,Day,,,Day,,,Day
+14,100015,"Borrero, Nurse",Full Time,13,Day,,4,0,4,3,0,3,3,0,3,3,0,3,,,Day,Day,Day,,Day,,,Day,Day,,Day,,Day,Day,,Day,,,,,,Day,Day,,Day,
+15,100016,"Tweardy, Nurse",Part Time,8,Day,,2,0,2,2,2,4,2,0,2,2,0,2,Day,,Day,,,,,Day,Protected,Protected,,,,Day,,Day,,,Day,,,Day,,,,,,Day
+16,100017,"Guisona, Nurse",Full Time,13,Day,,3,0,3,3,2,5,4,0,4,3,0,3,,Day,,Day,,Day,,Day,,Day,,Protected,Protected,Day,Day,Day,,,Day,,Day,Day,Day,,Day,,,
+17,100018,"Boada, Nurse",Full Time,13,Day,,3,0,3,3,0,3,3,0,3,4,0,4,,,,,Day,Day,Day,,Day,Day,Day,,,,,,,Day,,Day,Day,,Day,Day,,Day,Day,
+18,100019,"Chen, Nurse",Full Time,13,Night,,3,0,3,4,1,5,3,1,4,3,1,4,,,Night,Night,,Night,,Night,Night,,Protected,,Night,Night,,Night,Night,,Protected,,Night,Protected,Night,,Night,Night,,
+19,100020,"Huang, Nurse",Traveler,12,Night,,3,0,3,3,0,3,3,0,3,3,0,3,Night,,,Night,Night,,,Night,Night,,,,,Night,,,,Night,Night,,Night,,,Night,Night,Night,,
+20,100021,"Paredes, Nurse",Part Time,8,Night,,2,0,2,2,0,2,2,0,2,2,3,5,,,Night,,,,Night,,,Night,Night,,,,,,,,Night,Night,,Protected,Protected,Protected,,Night,Night,
+21,100022,"Grizotsky, Nurse",Full Time,13,Day,,3,0,3,3,0,3,3,0,3,4,0,4,Day,Day,,,Day,,,Day,,,Day,,Day,,,,Day,Day,,Day,,Day,,Day,Day,,Day,
+22,100023,"Schueger, Nurse",Full Time,13,Day,,4,0,4,3,0,3,3,0,3,3,0,3,,Day,Day,Day,,Day,,,Day,Day,,Day,,,,,Day,Day,,Day,,Day,Day,,Day,,,
+23,100024,"Vaszuez, Nurse",Full Time,13,Evening,,3,0,3,3,0,3,4,1,5,3,1,4,,Evening,Evening,,,Evening,,,Evening,,Evening,,Evening,,Evening,,Evening,,Evening,Evening,Protected,Protected,Evening,Evening,Evening,,,
+24,100025,"Dumaresq, Nurse",Per Diem,8,Day,,2,0,2,2,0,2,2,0,2,2,0,2,,,Day,,,,Day,Day,,Day,,,,,,Day,,Day,,,,,Day,,Day,,,
+25,100026,"Ning, Nurse",Full Time,13,Evening,,3,0,3,4,0,4,3,0,3,3,0,3,,Evening,,,Evening,Evening,,Evening,Evening,,Evening,,,Evening,Evening,Evening,,,,,Evening,Evening,,,,Evening,,Evening
+26,100027,"Fellin, Nurse",Student,13,Night,,3,2,5,4,0,4,3,2,5,3,0,3,Night,,Protected,Protected,Night,,Night,Night,,,Night,Night,Night,,Night,Night,,Protected,Protected,Night,,Night,,Night,Night,,,
+27,100028,"Mensah, Nurse",Full Time,13,Day,,4,0,4,3,0,3,3,0,3,3,0,3,Day,Day,,,Day,,Day,Day,Day,,,,,Day,,,Day,,Day,Day,,,,Day,Day,,Day,
+28,100029,"Aquino, Nurse",Full Time,13,Day,,4,0,4,3,0,3,3,0,3,3,0,3,Day,,,Day,,Day,Day,Day,,,,Day,Day,,Day,,,,Day,,Day,Day,,,,Day,Day,
+29,100030,"Hoeft, Nurse",Full Time,13,Evening,Yes,3,1,4,3,0,3,3,0,3,4,0,4,Evening,,Evening,,Protected,,Evening,Evening,,,,,Evening,Evening,Evening,,,,Evening,Evening,,Evening,,,Evening,,Evening,Evening
+30,100031,"Nabua, Nurse",Full Time,13,Evening,Yes,4,2,6,3,0,3,3,0,3,3,0,3,Evening,Evening,,Evening,Evening,Protected,Protected,Evening,Evening,,,,,Evening,,Evening,Evening,,,,Evening,,Evening,,,Evening,,Evening
+31,100032,"Miele, Nurse",Full Time,13,Night,Yes,4,0,4,3,0,3,3,0,3,3,0,3,Night,Night (CH),,,Night,Night (CH),,,Night,Night (CH),Night,,,,,,,Night (CH),Night (CH),Night,,,,,,Night (CH),Night (CH),Night
+32,100033,"Galias, Nurse",Full Time,13,Evening,,3,0,3,3,0,3,3,0,3,4,0,4,,,Evening,Evening,Evening,,,Evening,Evening,Evening,,,,,,Evening,Evening,Evening,,,,,Evening,Evening,Evening,,Evening,
+33,100034,"Williams, Nurse",Part Time,8,Day,,2,2,4,2,0,2,2,0,2,2,0,2,,,,Day,Protected,Protected,Day,,,Day,,Day,,,,,,Day,,Day,,,Day,,,,,Day
+34,100035,"Birch, Nurse",Full Time,13,Day,Yes,3,2,5,3,0,3,3,0,3,4,0,4,Day,Protected,Protected,,Day (CH),Day,,Day,,,,,Day,Day,,Day (CH),,Day (CH),,Day,,,,Day,Day (CH),Day,,Day
+35,100036,"An, Nurse",Per Diem,13,Day,,3,1,4,4,1,5,3,0,3,3,0,3,,Day,,,Day,Protected,Day,Protected,Day,Day,,Day,Day,,,,,Day,Day,,Day,Day,Day,,Day,,,
+36,100037,"Frankel, Nurse",Full Time,13,Evening,,4,1,5,3,0,3,3,0,3,3,0,3,Evening,,Evening,Evening,Protected,Evening,,,,Evening,Evening,Evening,,,,,Evening,,,Evening,Evening,Evening,,,Evening,,Evening,
+37,100038,"Freeman, Nurse",Part Time,13,Evening,,3,1,4,3,2,5,4,0,4,3,0,3,,Evening,,Evening,,Protected,Evening,,,Evening,Protected,Evening,Protected,Evening,Evening,Evening,,,Evening,,Evening,,Evening,Evening,,Evening,,
+38,100039,"Philipchuck, Nurse",Full Time,13,Evening,Yes,3,0,3,3,2,5,3,1,4,4,0,4,Evening,,,,Evening,Evening,,,,Evening,Evening,Evening,Protected,Protected,Protected,,,Evening,Evening,Evening,,,,Evening,,Evening,Evening,Evening
+39,100040,"Baker, Nurse",Traveler,12,Night,,3,0,3,3,0,3,3,2,5,3,2,5,,,Night,Night,,Night,,Night,,,,,Night,Night,,Night,Night,Protected,Protected,,Night,,Night,,Night,Night,Protected,Protected
+40,100041,"Willis, Nurse",Traveler,12,Night,,3,2,5,3,1,4,3,1,4,3,0,3,Night,Night,,,Night,Protected,Protected,,,Night,Night,Protected,,Night,Night,Night,Protected,,Night,,,,Night,Night,,,Night,
+41,100042,"Waters, Nurse",Per Diem,12,Day,,3,0,3,3,0,3,3,0,3,3,0,3,,,Day,Day,,Day,,Day,,,Day,,,Day,Day,,Day,,,Day,,,Day,Day,,Day,,
+42,100043,"Sher, Nurse",Full Time,13,Night,,4,0,4,3,0,3,3,0,3,3,0,3,Night,,Night,Night,Night,,,,,Night,,,Night,Night,Night,,Night,,Night,,,Night,Night,Night,,,,
+43,100044,"Ogilvie, Nurse",Full Time,13,Night,Yes,3,0,3,3,0,3,4,0,4,3,0,3,,Night,,,Night (CH),Night,,Night (CH),Night,Night,,,,,,Night (CH),Night (CH),Night,,Night (CH),,,,,Night (CH),,Night,Night (CH)
+44,100045,"Jones, Nurse",Part Time,8,Night,,2,0,2,2,0,2,2,0,2,2,0,2,,Night,Night,,,,,Night,Night,,,,,,Night,Night,,,,,,,Night,Night,,,,
+45,100046,"Guerra, Nurse",Full Time,13,Night,Yes,3,0,3,3,0,3,4,0,4,3,0,3,Night (CH),,Night (CH),,,,Night (CH),,Night (CH),Night,,,,Night (CH),Night (CH),,Night,Night,,Night,,Night,Night (CH),,,,,Night
+46,100047,"Asamoah, Nurse",Full Time,0,Night,,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,100048,"Zhao, Nurse",Part Time,8,Day,,2,2,4,2,2,4,2,2,4,2,2,4,,,Protected,Protected,,Day,Day,,Day,Protected,Protected,,Day,,,Day,,Protected,Protected,Day,,,Day,,Protected,Protected,Day,
+48,100049,"Lauyan, Nurse",Per Diem,13,Day,,3,2,5,3,0,3,4,0,4,3,0,3,,Day,Day,,Day,Protected,Protected,Day,Day,,,Day,,,Day,Day,,,Day,,Day,,Day,Day,,Day,,
+49,100050,"Jean-Pierre, Nurse",Full Time,13,Night,Yes,3,1,4,3,2,5,3,2,5,4,0,4,,Night,Protected,Night (CH),,Night,,Protected,,,Night (CH),Night (CH),Night (CH),Protected,Protected,Protected,Night,Night,,,Night (CH),Night (CH),,Night (CH),,,Night,Night
